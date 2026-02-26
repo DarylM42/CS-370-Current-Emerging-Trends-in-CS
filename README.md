@@ -1,6 +1,5 @@
-# CS-370-Current-Emerging-Trends-in-CS
-
 # Pirate Intelligent Agent – Portfolio Reflection
+
 ## Project Summary
 
 This project focused on building a reinforcement learning agent capable of navigating a grid‑based pirate treasure environment. The starter materials included the game world, the environment rules, and the overall notebook structure. My contribution was the full implementation of the deep Q‑learning system. I created the neural network model, the replay memory, the epsilon‑greedy exploration strategy, and the training loop that updates the agent’s Q‑values based on its experiences. I also added the logic that allows the agent to learn from past actions and gradually improve its ability to reach the treasure.
